@@ -11,6 +11,10 @@
     
 }
 
+html {
+  background-color: black;
+ }
+
 p {
     margin-top: 10px;
     margin-bottom: 1rem;
@@ -20,10 +24,15 @@ p {
 
 
 .lead {
-        font-size: 1.25rem;
-        font-weight: 300;
-        margin-top: 210px;
+  font-size: 1.25rem;
+  font-weight: 300;
+  margin-top: 335px;
+}
 
+.lead2 {
+  margin-top: 210px;
+  font-size: 1.25rem;
+  font-weight: 300;
 }
 
 header, main, footer {
@@ -109,6 +118,13 @@ header, main, footer {
       margin-top: 60px;
       margin-bottom :10px;
   }
+
+  .lead2 {
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-top: 183px;
+    margin-bottom: 10px;
+}
 
 .display-4 {
   font-size: 40px;
