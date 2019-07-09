@@ -63,7 +63,7 @@ header, main, footer {
 }  */
 
 .pogo-button-search-form {
-  width: 350px;
+  width: 340px;
   margin: 0px auto;
   margin-top: 50px;
 }
@@ -177,7 +177,7 @@ p {
 }
 
 .pogo-button-search-form {
-  width: 350px;
+  width: 340px;
   margin: 0px auto;
   margin-top: -16px;
 }
@@ -203,7 +203,7 @@ p {
 @media only screen 
   and (max-device-width: 375px) {
     .child-img {
-      margin-top: -210px;
+      margin-top: -198px;
       margin-left: -171px;
       position: absolute;
       height: 90px;
@@ -211,12 +211,13 @@ p {
   }
 
   .child2-img {
-    margin-top: -196px;
+    margin-top: -185px;
     margin-left: 110px;
     position: absolute;
     height: 74px;
     width: 66px;
 }
+
 .lead2 {
   font-size: 1.25rem;
   font-weight: 300;
@@ -236,13 +237,22 @@ p {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 70%;
+  background-size: 95%;
   background-color: black;
   padding-bottom: 20px;
   color: aliceblue;
   text-align: center;
   
 }
+ .pogo-button-search-form {
+    width: 340px;
+    margin: 0px auto;
+    margin-top: -16px;
+  }
+
+
+
+
 
   }
 
