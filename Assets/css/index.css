@@ -224,6 +224,13 @@ p {
   margin-bottom: 10px;
 }
 
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 .jumbotron {
   background-image: url("../Images/pokeball\ art.jpg");
   background-attachment: fixed;
