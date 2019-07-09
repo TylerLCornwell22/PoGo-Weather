@@ -224,6 +224,19 @@ p {
   margin-bottom: 10px;
 }
 
+.jumbotron {
+  background-image: url("../Images/pokeball\ art.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-color: black;
+  padding-bottom: 125px;
+  color: aliceblue;
+  text-align: center;
+  
+}
+
   }
 
 
